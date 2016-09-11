@@ -1,0 +1,41 @@
+Source: python-msrest
+Section: python
+Priority: optional
+Maintainer: Antoine R. Dumont <antoine.romain.dumont@gmail.com>
+Build-Depends: debhelper (>= 9),
+               dh-python,
+               python-all,
+               python-setuptools,
+               python-requests,
+               python-requests-oauthlib,
+               python-keyring,
+               python-isodate,
+               python-certifi,
+               python-chardet,
+               python-enum34,
+               python3-all,
+               python3-setuptools,
+               python3-requests,
+               python3-requests-oauthlib,
+               python3-keyring,
+               python3-isodate,
+               python3-certifi,
+               python3-chardet
+Standards-Version: 3.9.6
+X-Python-Version: >= 2.7
+X-Python3-Version: >= 3.0
+Homepage: https://github.com/xingwu1/autorest
+
+Package: python-msrest
+Architecture: all
+Depends: ${misc:Depends},
+         ${python:Depends}
+Description: AutoRest swagger generator Python client runtime
+ This is the Python 2 version of the package.
+
+Package: python3-msrest
+Architecture: all
+Depends: ${misc:Depends},
+         ${python3:Depends}
+Description: AutoRest swagger generator Python client runtime
+ This is the Python 3 version of the package.
