@@ -12,7 +12,7 @@ Build-Depends: debhelper (>= 9),
                python-requests-oauthlib (>= 0.5.0),
                python-keyring,
                python-isodate,
-               python-certifi,
+               python-certifi (>= 2015.9.6.2~),
                python-chardet,
                python-enum34,
                python3-all,
@@ -21,7 +21,7 @@ Build-Depends: debhelper (>= 9),
                python3-requests-oauthlib (>= 0.5.0),
                python3-keyring,
                python3-isodate,
-               python3-certifi,
+               python3-certifi (>= 2015.9.6.2~),
                python3-chardet
 Standards-Version: 3.9.8
 Homepage: https://github.com/Azure/autorest/tree/master/src/client/Python/msrest
