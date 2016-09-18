@@ -2,4 +2,4 @@ python-msrest (0.4.3-1) unstable; urgency=medium
 
   * Initial release. (Closes: #838121)
 
- -- Antoine R. Dumont <antoine.romain.dumont@gmail.com>  Sun, 18 Sep 2016 13:58:20 +0100
+ -- Antoine R. Dumont (@ardumont) <antoine.romain.dumont@gmail.com>  Sun, 18 Sep 2016 13:58:20 +0100
