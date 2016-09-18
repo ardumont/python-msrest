@@ -32,12 +32,18 @@ Package: python-msrest
 Architecture: all
 Depends: ${misc:Depends},
          ${python:Depends}
-Description: AutoRest swagger generator Python client runtime
- This is the Python 2 version of the package.
+Description: AutoRest Swagger generator for Python 2.x
+ The AutoRest tool generates client libraries for accessing RESTful web
+ services. Input to AutoRest is a spec that describes the REST API using the
+ Swagger format. This package contains a Swagger generator for AutoRest for
+ Python 2.x applications.
 
 Package: python3-msrest
 Architecture: all
 Depends: ${misc:Depends},
          ${python3:Depends}
-Description: AutoRest swagger generator Python client runtime
- This is the Python 3 version of the package.
+Description: AutoRest swagger generator Python 3.x client runtime
+ The AutoRest tool generates client libraries for accessing RESTful web
+ services. Input to AutoRest is a spec that describes the REST API using the
+ Swagger format. This package contains a Swagger generator for AutoRest for
+ Python 3.x applications.
