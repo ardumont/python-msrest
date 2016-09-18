@@ -7,7 +7,7 @@ Debianized-Date: Sun Sep 11 15:59:53 CEST 2016
 
 Files: debian/*
 Copyright: 2016, Antoine R. Dumont <antoine.romain.dumont@gmail.com>
-License: MIT
+License: GPL-2+
 
 Files: *
 Copyright: 2015-2016, Microsoft Corporation
@@ -34,3 +34,6 @@ License: Expat
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
 
+License: GPL-2+
+ On Debian systems, the complete text of the GNU General Public
+ License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
