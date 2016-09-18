@@ -22,9 +22,9 @@ Build-Depends: debhelper (>= 9),
                python3-certifi,
                python3-chardet
 Standards-Version: 3.9.8
+Homepage: https://github.com/Azure/autorest/tree/master/src/client/Python/msrest
 X-Python-Version: >= 2.7
 X-Python3-Version: >= 3.0
-Homepage: https://github.com/xingwu1/autorest
 
 Package: python-msrest
 Architecture: all
