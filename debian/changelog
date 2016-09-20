@@ -1,3 +1,9 @@
+python-msrest (0.4.4-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Iain R. Learmonth <irl@debian.org>  Tue, 20 Sep 2016 12:54:00 +0100
+
 python-msrest (0.4.3-1) unstable; urgency=medium
 
   * Initial release. (Closes: #838121)
