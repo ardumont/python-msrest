@@ -24,6 +24,8 @@ Build-Depends: debhelper (>= 9),
                python3-certifi (>= 2015.9.6.2~),
                python3-chardet
 Standards-Version: 3.9.8
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-azure/python-msrest.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-azure/python-msrest.git
 Homepage: https://github.com/Azure/autorest/tree/master/src/client/Python/msrest
 X-Python-Version: >= 2.7
 X-Python3-Version: >= 3.0
